@@ -57,6 +57,7 @@
 
 ## News
 
+- 2020.08.14: MSN News - [A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live](https://www.msn.com/en-us/news/technology/a-us-air-force-f-16-pilot-is-going-to-take-on-an-ai-adversary-in-a-simulated-dogfight-and-you-can-watch-it-live/ar-BB17YsOQ)
 - 2020.07.09: Google AI Blog - [AutoML-Zero: Evolving Code that Learns](https://ai.googleblog.com/2020/07/automl-zero-evolving-code-that-learns.html)
 - 2020.07.06: Bloomberg - [Facial-Recognition Firm Clearview AI Ends Operations in Canada](https://www.bloomberg.com/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says)
 - 2020.06.30: Google AI Blog - [SpineNet: A Novel Architecture for Object Detection Discovered with Neural Architecture Search](http://ai.googleblog.com/2020/06/spinenet-novel-architecture-for-object.html)
